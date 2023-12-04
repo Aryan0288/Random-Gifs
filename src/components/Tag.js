@@ -11,6 +11,7 @@ export default function Tag() {
   // const [gif,setGif]=useState('');
   // const [spinner,setSpinner]=useState(false);
   const [tag,setTag]=useState('car');
+  
 
 
   // async function fetchData(){
